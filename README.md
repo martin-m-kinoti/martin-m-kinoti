@@ -7,7 +7,7 @@ Currently working on a **Crop Disease Detection AI** tool and levelling up in **
 ---
 
 ### 🔬 What I'm working on
-- 🌿 **[Crop Disease Detection AI]** — Computer vision model to help farmers identify plant diseases early
+- 🌿 **Crop Disease Detection AI** — Computer vision AI system to help farmers identify plant diseases early
 - ⚛️ **Learning ReactJS** — bridging ML backends with modern frontend experiences
 
 ---

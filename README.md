@@ -31,6 +31,6 @@ Currently working on a **Crop Disease Detection AI** tool and levelling up in **
 ---
 
 ### 📬 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--mwenda-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martin-mwenda)
-[![Kaggle](https://img.shields.io/badge/Kaggle-martex--kinoti-blue?style=flat&logo=kaggle)](https://kaggle.com/martex-kinoti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--mwenda-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martinmwenda)
+[![Kaggle](https://img.shields.io/badge/Kaggle-martex--kinoti-blue?style=flat&logo=kaggle)](https://kaggle.com/martexkinoti)
 [![Email](https://img.shields.io/badge/Email-kinotimartin095@gmail.com-red?style=flat&logo=gmail)](mailto:kinotimartin095@gmail.com)

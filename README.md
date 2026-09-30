@@ -8,7 +8,7 @@ Currently working on a **Crop Disease Detection AI** tool and levelling up in **
 
 ### 🔬 What I'm working on
 - 🌿 **Crop Disease Detection AI** 
-- ⚛️ **Learning Mobile Development** 
+- ⚛️ **Learning React & Mobile Development** 
 
 ---
 

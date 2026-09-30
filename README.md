@@ -1,14 +1,14 @@
 # Martin Mwenda Kinoti
-### Data Scientist · Kenya 🇰🇪
+### Full Stack Developer · Kenya 🇰🇪
 
-Building AI tools that solve real-world challenges.
+Building tools that solve real-world challenges.
 Currently working on a **Crop Disease Detection AI** tool and levelling up in **React**.
 
 ---
 
 ### 🔬 What I'm working on
 - 🌿 **Crop Disease Detection AI** 
-- ⚛️ **Learning Full Stack Development** 
+- ⚛️ **Learning Mobile Development** 
 
 ---
 
